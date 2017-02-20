@@ -99,7 +99,7 @@
 	</table>
 	<br>
 	<br>
-	<h3>Instructions to install Xamarin and Online Resources</h3>
+	<?php echo '<h3>Instructions to install Xamarin and Online Resources</h3>' ?>
 	<a href="docs/Xamarin Installation and Online Resources for Pre Learning.pdf">Windows</a>
 	<br>
 	<a href="docs/Xamarin Installation and Online Resources for Pre Learning for macOS.pdf">macOS</a>
